@@ -1,6 +1,6 @@
 # S级产品化服务框架 v3.5
 
-[![Version](https://img.shields.io/badge/version-3.5-blue.svg)](https://github.com/aztoplay/s-grade-framework)
+[![Version](https://img.shields.io/badge/version-3.5-blue.svg)](https://github.com/AZTOPLAY/s-grade-framework)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-purple.svg)](https://openclaw.ai)
 
@@ -28,7 +28,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/aztoplay/s-grade-framework.git
+git clone https://github.com/AZTOPLAY/s-grade-framework.git
 
 # 复制到OpenClaw skills目录
 cp -r s-grade-framework/skills/* ~/.openclaw/skills/
@@ -104,6 +104,5 @@ MIT License
 
 ---
 
-**构建者**：AZTOPLAY AI军团  
-**维护者**：Ethan  
+**创建者/维护者**：AZTOPLAY  
 **最后更新**：2026-04-29
